@@ -1,2 +1,2 @@
 # JavaHomeWork_1
-interface
+interface ITstep homeWork
